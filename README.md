@@ -1,4 +1,4 @@
-# Ginsengswap-contract
+# Ginseng Swap
 
-Ginsengswap-contract is responsible for interacting with Ginseng's optimistic stablecoin DEX.
+Implementation of the Ginseng optimistic stableswap protocol.
 
