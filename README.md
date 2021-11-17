@@ -1,2 +1,2 @@
 # ginseng-swap
-contracts for the ginseng optimistic stableswap 
+contracts for the ginseng optimistic stableswap protocol
